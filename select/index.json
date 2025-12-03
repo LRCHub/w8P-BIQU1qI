@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dirty Work",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-03T09:18:27.416069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/01_Dirty_Work_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "The Rolling Stones",
+      "has_synced": false,
+      "path": "select/02_Dirty_Work_The_Rolling_Stones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/03_Dirty_Work_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Work (Remastered)",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/04_Dirty_Work_(Remastered)_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Grip",
+      "has_synced": true,
+      "path": "select/05_Dirty_Work_Grip.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "GRIP",
+      "has_synced": true,
+      "path": "select/06_Dirty_Work_GRIP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "A Love Like Pi",
+      "has_synced": false,
+      "path": "select/07_Dirty_Work_A_Love_Like_Pi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Halestorm",
+      "has_synced": true,
+      "path": "select/08_Dirty_Work_Halestorm.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Halestorm",
+      "has_synced": false,
+      "path": "select/09_Dirty_Work_Halestorm.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/10_Dirty_Work_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Pointer Sisters",
+      "has_synced": true,
+      "path": "select/11_Dirty_Work_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/12_Dirty_Work_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dirty Work (-72)",
+      "artist": "Steely Dan",
+      "has_synced": true,
+      "path": "select/13_Dirty_Work_(-72)_Steely_Dan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/14_Dirty_Work_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Work",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/15_Dirty_Work_Austin_Mahone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Work",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Work_aespa.txt"
+    }
+  ]
+}
